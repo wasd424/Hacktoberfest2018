@@ -249,3 +249,7 @@
 ### Name [Harikrushna Vanpariya](https://github.com/hgvanpariya)
 - Bio: I'm Web Java Developer with Experience in Eclipse RCP.
 - Programming Language: Java, Springboot, REST API, Eclipse RCP, Machine Learning
+
+### Name [Wasd424](https://github.com/wasd424)
+- Bio: I'm enjoy systems programming and other programming stuff
+- Programming Language: C, Go, Cow
